@@ -40,6 +40,7 @@ This notebook provides an overview of the MISTRAL-7b-Instruct model's performanc
 
 #### Exploratory Data Analysis.ipynb
 This notebook offers an in-depth overview of the quality of the extracted data, including:
+- SPARQL Querries used to extract factual information from Wikidata 
 - Number of instances.
 - Total number of missing words.
 - Imputation of the missing words.
