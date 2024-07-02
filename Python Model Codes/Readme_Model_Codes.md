@@ -1,6 +1,6 @@
 ### Models and File Structure
 
-Due to the sheer number of instances, we have split the dataset into six parts for each model to ensure efficient processing. Each file's name indicates the model, the section of the dataset it addresses, the language, and the question format.
+Due to the sheer number of instances, we have split the dataset into six parts for each model to ensure efficient processing. Each file's name indicates the model, the section of the dataset it addresses, the language, and the question format. Do not worry about the shown account_ID/Token_ID as it is now unvalidated.
 
 #### Example File Names
 
