@@ -1,0 +1,19 @@
+Question,Model_Answer,Actual_Answer,Compared_Answer,Language,Time_Taken
+The event 'Battle of White Oak Swamp' took place in Japan.,Comment: False. The Battle of White,False,1,EN,1.34611177444458
+The event 'Battle of White Oak Swamp' occurred in -57.0.,"Answer: False.
+
+The",False,1,EN,0.5557215213775635
+The event 'Battle of Springfield' took place in France.,Comment: False. The Battle of Spring,False,1,EN,0.5544710159301758
+The event 'Battle of Springfield' occurred in 894.0.,False. The Battle of Springfield occurred,False,1,EN,0.5539546012878418
+The event 'Battle of la Truyère' took place in Japan.,Comment: False. The Battle of la,False,1,EN,0.5530190467834473
+The event 'Battle of la Truyère' occurred in 1176.0.,"True
+
+Comment: @JamesKPol",False,0,EN,0.554368257522583
+The event 'Battle of Mihonoseki' took place in Japan.,Comment: True. The Battle of M,True,1,EN,0.5545945167541504
+The event 'Battle of Mihonoseki' occurred in 1569.0.,1 False. The Battle of Mihonose,True,0,EN,0.5539340972900391
+The event 'Battle of Hanging Rock' took place in France.,"Answer: False.
+
+The",False,1,EN,0.5552074909210205
+The event 'Battle of Hanging Rock' occurred in 235.0.,"False.
+
+The Battle of H",False,1,EN,0.5541977882385254

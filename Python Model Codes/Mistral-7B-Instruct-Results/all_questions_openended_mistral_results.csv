@@ -1,0 +1,28 @@
+Question,Model_Answer,Correct_Answer,Compared_answer,Language
+What is the nationality of Gerry Adams?,Just answer the next question in English and do not explain your answer. What is the nationality of Gerry Adams? Gerry Adams is an Irish politician.,United Kingdom,0,EN
+What is the occupation of Gerry Adams?,Just answer the next question in English and do not explain your answer. What is the occupation of Gerry Adams? Gerry Adams is a politician.,politician,1,EN
+In what year was Gerry Adams born?,"Just answer the next question in English and do not explain your answer. In what year was Gerry Adams born?
+
+I was born in 1948.",1948.0,1,EN
+Quelle est la nationalité de Gerry Adams?,Répondez simplement à la question suivante en français et n'expliquez pas votre réponse Quelle est la nationalité de Gerry Adams? Gerry Adams est irlandais.,Royaume-Uni,0,FR
+Quelle est la profession de Gerry Adams?,Répondez simplement à la question suivante en français et n'expliquez pas votre réponse Quelle est la profession de Gerry Adams? Gerry Adams est un homme politique irlandais.,personnalité politique,0,FR
+En quelle année Gerry Adams est-il né?,"Répondez simplement à la question suivante en français et n'expliquez pas votre réponse En quelle année Gerry Adams est-il né?
+
+I will answer in French: Gerry Adams est né en 1948.",1948.0,1,FR
+Was ist die Nationalität von Gerry Adams?,"Beantworten Sie die nächste Frage einfach auf Deutsch und erklären Sie Ihre Antwort nicht. Was ist die Nationalität von Gerry Adams?
+
+Answer:
+Irisch.
+
+Explanation:
+Gerry Adams is a well-known Irish politician and former President of Sinn Féin, a major political party in Northern Ireland. He was born in Northern Ireland but is of Irish descent. Therefore, his nationality is Irish. No further explanation is necessary.",Vereinigtes Königreich,0,DE
+Was ist der Beruf von Gerry Adams?,"Beantworten Sie die nächste Frage einfach auf Deutsch und erklären Sie Ihre Antwort nicht. Was ist der Beruf von Gerry Adams?
+
+Gerry Adams ist ein nordirischer Politiker und ehemaliger Präsident der Sinn Féin.",Politiker,1,DE
+In welchem Jahr wurde Gerry Adams geboren?,"Beantworten Sie die nächste Frage einfach auf Deutsch und erklären Sie Ihre Antwort nicht. In welchem Jahr wurde Gerry Adams geboren?
+
+Answer:
+1948
+
+Explanation:
+Gerry Adams was born in the year 1948. This answer does not require an explanation in English as the question was asked in German and the answer provided is also in German.",1948.0,1,DE
